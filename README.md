@@ -72,6 +72,23 @@ Tech Lead for the full redesign of a graphic-design agency website based in Maui
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajuarez93&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
+
+---
+
+## 🦡 Beyond Code
+
+When I'm not shipping AI products, I'm running [Honey Badgers Billiards 
+Club](https://honeybadgers.me) — a competitive billiards community I 
+founded in León, México. I designed the brand, built the website, and 
+run the entire digital strategy.
+
+12 active players. Competing nationally. Streaming live.
+
+Because the best engineers I know always have something they build 
+just for the love of it.
+
+---
+
 ---
 
 ## 📬 Let's Connect
