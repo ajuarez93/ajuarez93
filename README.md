@@ -50,6 +50,18 @@ Native iOS app for combat-sports training paired with IoT impact sensors: real-t
 
 ---
 
+## 📦 Open Source
+
+Libraries I publish on npm, each with React and Vue bindings and a live demo:
+
+| Package | What it does | |
+|---|---|---|
+| [**slimpic**](https://github.com/ajuarez93/slimpic) | Compress, resize and convert images in the browser before upload: Web Worker, exact target size, EXIF rotation, iOS-safe, HEIC. Drop-in successor to `browser-image-compression`. | [![npm](https://img.shields.io/npm/v/slimpic?label=npm)](https://www.npmjs.com/package/slimpic) · [demo](https://ajuarez93.github.io/slimpic/) |
+| [**cubelut**](https://github.com/ajuarez93/cubelut) | Apply `.cube` color LUTs on the GPU (WebGL2) with a Web Worker fallback, in Node and from the CLI. Tetrahedral interpolation, before/after components. | [![npm](https://img.shields.io/npm/v/cubelut?label=npm)](https://www.npmjs.com/package/cubelut) · [demo](https://ajuarez93.github.io/cubelut/) |
+| [**scrollframes**](https://github.com/ajuarez93/scrollframes) | The "video that plays as you scroll" effect on a canvas: lazy loading, responsive AVIF/WebP frames and a Python video-to-frames converter. | [![npm](https://img.shields.io/npm/v/scrollframes?label=npm)](https://www.npmjs.com/package/scrollframes) · [demo](https://ajuarez93.github.io/scrollframes/) |
+
+---
+
 ## 🛠️ Tech Stack
 
 **AI / ML:** Anthropic Claude · Amazon Bedrock · OpenAI · Google Gemini · LangChain · RAG · pgvector · Qdrant · Pinecone · Stable Diffusion · Flux · Hugging Face
